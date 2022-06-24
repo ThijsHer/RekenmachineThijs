@@ -1,0 +1,16 @@
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\bin\Debug\rekebmachine2.exe.config
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\bin\Debug\rekebmachine2.exe
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\bin\Debug\rekebmachine2.pdb
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.csproj.AssemblyReference.cache
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\MainWindow.g.cs
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\App.g.cs
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2_MarkupCompile.cache
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2_MarkupCompile.lref
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\MainWindow.baml
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.g.resources
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.Properties.Resources.resources
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.csproj.GenerateResource.cache
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.csproj.CoreCompileInputs.cache
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.exe
+C:\Users\thijs\source\repos\rekebmachine2\rekebmachine2\obj\Debug\rekebmachine2.pdb
